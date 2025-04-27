@@ -68,7 +68,7 @@ Now, I am continuing my academic journey by pursuing a Bachelor's Degree at Inte
 
 ### ⚙️ GitHub statistics:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EMMMABK&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adil-Bikiev&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EMMMABK&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adil-Bikiev&hide_progress=true)
 
