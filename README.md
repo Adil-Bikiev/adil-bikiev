@@ -60,11 +60,6 @@ Now, I am continuing my academic journey by pursuing a Bachelor's Degree at Inte
 
 ---
 
-### 💻 Codewars:
-![codewars](https://www.codewars.com/users/EMMMABK/badges/large)
-
----
-
 
 ### ⚙️ GitHub statistics:
 
