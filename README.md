@@ -15,8 +15,6 @@ As the winds of curiosity shifted in September 2021, I eagerly embraced the worl
 
 July 2022 marked a significant milestone in my journey as I successfully completed a comprehensive JavaScript course, which encompassed essential frameworks like React alongside fundamental JavaScript concepts. This achievement further solidified my understanding and proficiency in modern web development technologies. 🌟
 
-Currently, I am immersed in the exciting phase of job hunting while contributing my expertise to Codify as a Tech Support member. In this role, I extend a helping hand to newcomers in the web development arena, particularly in the realm of web design, fostering an environment of collaboration and growth. 💼
-
 Moreover, I maintain a steadfast commitment to backend component development for college projects, ensuring that my skills remain sharp and relevant in today's dynamic tech landscape. 🔧
 
 In 2023, my thirst for knowledge led me to embark on a new adventure as I began studying Salesforce Administration and Development at Ala-Too College. This addition to my skill set not only broadens my expertise but also underscores my unwavering dedication to perpetual learning and growth as a Full Stack Developer. I completed my studies in June 2024, marking a significant milestone in my journey.📚
