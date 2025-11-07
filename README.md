@@ -1,25 +1,14 @@
  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adil Bikiev.
 ====================================================================================================================================
 
-Full stack developer 
-SalesForce Developer/Admin
+Aspiring Backend Developer
 --------------------
 
 ### 👨‍💻: About me:
 
-A passionate journey into the world of IT commenced in 2020, when I embarked on my Python studies at the esteemed IT & Business College Ala Too. From the outset, backend development captured my fascination, igniting a journey of exploration into frameworks, databases, and version control through platforms like GitHub. 🚀
+I’m an aspiring Backend Developer and student with hands-on experience in Python (Django REST, FastAPI), Go, Java, and JavaScript (React + Vite). I’ve built projects integrating frontend and backend components, worked with PostgreSQL, Docker, and Git, and am passionate about writing clean, maintainable code.
 
-My commitment to mastering Python only deepened with time, as I delved into advanced concepts and problem-solving strategies through Algoritmika's Python courses in 2021. However, it was during an intensive Django immersion bootcamp from May to August 2021 that I truly honed my skills, achieving mastery in the intricacies of backend development. 💻
-
-As the winds of curiosity shifted in September 2021, I eagerly embraced the world of Front-end Development, honing my craft in HTML/CSS through rigorous training at Codify. Venturing further into the realm of interactivity, I embraced JavaScript, mastering its intricacies with dedication and enthusiasm. 🎨
-
-July 2022 marked a significant milestone in my journey as I successfully completed a comprehensive JavaScript course, which encompassed essential frameworks like React alongside fundamental JavaScript concepts. This achievement further solidified my understanding and proficiency in modern web development technologies. 🌟
-
-Moreover, I maintain a steadfast commitment to backend component development for college projects, ensuring that my skills remain sharp and relevant in today's dynamic tech landscape. 🔧
-
-In 2023, my thirst for knowledge led me to embark on a new adventure as I began studying Salesforce Administration and Development at Ala-Too College. This addition to my skill set not only broadens my expertise but also underscores my unwavering dedication to perpetual learning and growth as a Full Stack Developer. I completed my studies in June 2024, marking a significant milestone in my journey.📚
-
-Now, I am continuing my academic journey by pursuing a Bachelor's Degree at International Ala-Too University. With a fervent passion for innovation and a relentless pursuit of excellence, I eagerly anticipate the opportunities and challenges that lie ahead, confident in my ability to craft innovative solutions in technology's ever-evolving realm.  📚🌱
+🎓 Pursuing a Bachelor’s degree at International Ala-Too University. Eager to contribute to real-world projects as an Intern or Junior Backend Developer and continue improving my skills in backend systems, APIs, and scalable architectures. 🌱🚀
 
 <p align="center">
  <img width="600" src="icons/snake.svg" alt="snake"/>
@@ -28,7 +17,7 @@ Now, I am continuing my academic journey by pursuing a Bachelor's Degree at Inte
 *   🌍  I'm based in Kyrgyzstan/Bishkek
 *   ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/Telegram%20%20-8A2BE2)](https://t.me/b_adiI)[![Email Badge](https://img.shields.io/badge/b2adilg-@gmail.com-blue)](mailto:b2adilg@gmail.com)
 
-*   🧠  I'm learning CyberSecurity
+*   🧠  🧠 Currently learning and growing as a backend developer, building projects with APIs, databases, and some frontend integration.
 
 ### 🤝 Social media:
 <div id="badges">
