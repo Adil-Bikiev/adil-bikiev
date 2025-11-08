@@ -6,9 +6,9 @@ Aspiring Backend Developer
 
 ### 👨‍💻: About me:
 
-I’m an aspiring Backend Developer and student with hands-on experience in Python (Django REST, FastAPI), Go, Java, and JavaScript (React + Vite). I’ve built projects integrating frontend and backend components, worked with PostgreSQL, Docker, and Git, and am passionate about writing clean, maintainable code.
+I’m an aspiring Backend Developer and student, currently developing projects using Python (Django REST, FastAPI) and Go. I also have foundational knowledge of Java and JavaScript (React + Vite), and experience working with PostgreSQL and Git. I’m passionate about writing clean, maintainable, and efficient code.
 
-🎓 Pursuing a Bachelor’s degree at International Ala-Too University. Eager to contribute to real-world projects as an Intern or Junior Backend Developer and continue improving my skills in backend systems, APIs, and scalable architectures. 🌱🚀
+🎓 Pursuing a Bachelor’s degree at International Ala-Too University. Eager to contribute to real-world projects as an Intern or Junior Backend Developer, and continue improving my skills in backend systems, APIs, and scalable architectures. 🌱🚀
 
 <p align="center">
  <img width="600" src="icons/snake.svg" alt="snake"/>
