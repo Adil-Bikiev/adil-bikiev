@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adil Bikiev.
 ====================================================================================================================================
 
-Aspiring Backend Developer
+Backend Software Engineer Student | Python & Go
 --------------------
 
 ### 👨‍💻 About Me
@@ -73,9 +73,10 @@ I enjoy solving problems, learning how systems work internally, and turning idea
 ---
 
 
-### ⚙️ GitHub statistics:
+### ⚙️ GitHub statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adil-Bikiev&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adil-Bikiev&hide_progress=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adil-Bikiev&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adil-Bikiev&layout=compact&hide=css,html&theme=radical" alt="Top Languages" />
+</p>
 
