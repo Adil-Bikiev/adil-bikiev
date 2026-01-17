@@ -71,12 +71,3 @@ I enjoy solving problems, learning how systems work internally, and turning idea
 </p>
 
 ---
-
-
-### ⚙️ GitHub statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adil-Bikiev&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adil-Bikiev&layout=compact&hide=css,html&theme=radical" alt="Top Languages" />
-</p>
-
